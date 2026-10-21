@@ -1,4 +1,4 @@
-package com.javanauta.operadora_cartao_credito;
+package com.javanauta.operadoracartaocredito;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
